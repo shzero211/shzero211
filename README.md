@@ -1,1 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=몰입하는%20개발자&fontSize=90&animation=fadeIn&fontAlignY=38&desc=KimSangHun&descAlignY=70&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=100F0F&height=200&section=header&text=몰입하는%20개발&fontSize=50&fontColor=38E54D&animation=twinkling)
+<h3 align="center"><b>💻BackEnd Developer💻 </b></h3>
