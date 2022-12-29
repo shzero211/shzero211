@@ -5,10 +5,12 @@
 <h3 align="center"><b>🛠Tech Stack🛠 </b></h3>
 <hr>
 <div align="center">
-<img alt="SpringBoot" src ="https://img.shields.io/badge/Spring Boot-82CD47?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-<img alt="SpringBoot" src ="https://img.shields.io/badge/My SQL-4169E1?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img alt="SpringBoot" src ="https://img.shields.io/badge/Spring Data JPA-82CD4?&style=for-the-badge&logo=SpringDataJPA&logoColor=white"/>
-<img alt="SpringBoot" src ="https://img.shields.io/badge/JAVA-82CD4?&style=for-the-badge&logo=JAVAA&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring Boot-black?style=flat&logo=Spring Boot&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Amazon S3-pink?style=flat&logo=Amazon S3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Amazon RDS-skyblue?style=flat&logo=Amazon RDS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Amazon EC2-green?style=flat&logo=Amazon EC2&logoColor=CC6699"/>
+ <img src="https://img.shields.io/badge/Linux-green?style=flat&logo=Linux&logoColor=CC6699"/>
 </div>
  
  
