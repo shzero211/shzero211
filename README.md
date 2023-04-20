@@ -12,8 +12,3 @@
  <img src="https://img.shields.io/badge/Amazon EC2-green?style=flat&logo=Amazon EC2&logoColor=CC6699"/>
  <img src="https://img.shields.io/badge/Linux-green?style=flat&logo=Linux&logoColor=CC6699"/>
 </div>
-
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pppainkiller)](https://solved.ac/pppainkiller)
